@@ -1,10 +1,12 @@
 ---
 name: Mod Support Request
 about: If you want to request mod support you can do it here
-title: ''
+title: ""
 labels: mod support request
 assignees: AmongstReality
 
 ---
 
 Here you can write the name of the mod you want me to add support for, or even a list of mods.
+
+Please include links to the pages of the requested mod/mods on CurseForge/Modrinth.
